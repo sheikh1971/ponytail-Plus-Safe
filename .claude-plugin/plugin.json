@@ -1,0 +1,13 @@
+{
+  "name": "ponytail-plus",
+  "version": "1.0.0",
+  "description": "Production-safe coding discipline: least code that works, reuse first, a test for every change, and safety, security and least privilege never cut. Inspired by Ponytail and others. Unofficial; not affiliated with Ponytail.",
+  "author": {
+    "name": "Mohammad Ariful Islam",
+    "url": "https://github.com/sheikh1971"
+  },
+  "homepage": "https://github.com/sheikh1971/ponytail-Plus",
+  "repository": "https://github.com/sheikh1971/ponytail-Plus",
+  "license": "MIT",
+  "keywords": ["coding", "minimal", "yagni", "testing", "security", "least-privilege", "production"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ponytail-plus",
+  "description": "ponytail-Plus: production-safe coding rules for AI coding agents.",
+  "owner": {
+    "name": "Mohammad Ariful Islam",
+    "url": "https://github.com/sheikh1971"
+  },
+  "plugins": [
+    {
+      "name": "ponytail-plus",
+      "source": "./",
+      "description": "Least code that works, reuse first, a test for every change, safety and least privilege never cut."
+    }
+  ]
+}
