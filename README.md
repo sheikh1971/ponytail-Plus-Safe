@@ -1,4 +1,4 @@
-# ponytail-Plus
+# ponytail-Plus-Safe
 
 > Unofficial. Not affiliated with or endorsed by Ponytail or its author.
 
@@ -8,7 +8,7 @@ Inspired by [Ponytail](https://github.com/DietrichGebert/ponytail), Andrej Karpa
 
 ## What is different
 
-| | Ponytail-style minimal coding | ponytail-Plus |
+| | Ponytail-style minimal coding | ponytail-Plus-Safe |
 |---|---|---|
 | Least code, reuse first, prefer delete | yes | yes |
 | Tests | small changes may skip | **every change gets a test**; bug fixes get a failing test first |
@@ -22,15 +22,15 @@ Inspired by [Ponytail](https://github.com/DietrichGebert/ponytail), Andrej Karpa
 ## Install (Claude Code)
 
 ```
-/plugin marketplace add sheikh1971/ponytail-Plus
-/plugin install ponytail-plus@ponytail-plus
+/plugin marketplace add sheikh1971/ponytail-Plus-Safe
+/plugin install ponytail-plus-safe@ponytail-plus-safe
 ```
 
-The skill turns on by itself for coding tasks. You can also call it directly with `/ponytail-plus:ponytail-plus`.
+The skill turns on by itself for coding tasks. You can also call it directly with `/ponytail-plus-safe:ponytail-plus-safe`.
 
 ## Other agents
 
-The rules are plain Markdown in [`skills/ponytail-plus/SKILL.md`](skills/ponytail-plus/SKILL.md). Copy the body into your agent's rules file (for example `AGENTS.md`, `.cursorrules` or `.github/copilot-instructions.md`).
+The rules are plain Markdown in [`skills/ponytail-plus-safe/SKILL.md`](skills/ponytail-plus-safe/SKILL.md). Copy the body into your agent's rules file (for example `AGENTS.md`, `.cursorrules` or `.github/copilot-instructions.md`).
 
 ## The rules in short
 

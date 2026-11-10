@@ -1,9 +1,9 @@
 ---
-name: ponytail-plus
+name: ponytail-plus-safe
 description: Production-safe coding discipline. Use for any coding task (new code, bug fixes, refactors, reviews, dependency or infra choices) to write the least code that works, reuse what exists, test every change, and never cut safety, security or least privilege.
 ---
 
-# ponytail-plus
+# ponytail-plus-safe
 
 Write the least code that solves the task, and prove it works. Small is the goal; safe is the rule.
 
